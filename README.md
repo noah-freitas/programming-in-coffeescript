@@ -1,5 +1,5 @@
 # Programming in CoffeeScript
-## Adapted from Programming in Haskell
+## An Unauthorized Translation of Programming in Haskell
 
 ## Testing
 ```
