@@ -1,0 +1,20 @@
+{
+  "name": "programming-in-coffeescript",
+  "version": "0.0.0",
+  "description": "Programming in CoffeeScript, a translation of Programing in Haskell",
+  "main": "index.coffee",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jasmine-node --coffee --verbose test/"
+  },
+  "devDependencies": {
+    "jasmine-node": "*"
+  },
+  "repository": "",
+  "author": "Noah Freitas <noah.j.freitas@gmail.com>",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "a743246fbeed3bee0bfb1fb7081bf4ad8457bb3c"
+}
